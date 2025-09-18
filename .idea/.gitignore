@@ -9,7 +9,7 @@ vcs.xml
 *.class
 
 # Maven build directory
-/target/
+target/
 
 # Logs
 *.log
