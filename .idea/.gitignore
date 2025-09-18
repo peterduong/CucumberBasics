@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+compiler.xml
+jarRepositories.xml
+misc.xml
+vcs.xml
+# Compiled class files
+*.class
+
+# Maven build directory
+/target/
+
+# Logs
+*.log
+
+# IDE settings (optional, depends on your team setup)
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
